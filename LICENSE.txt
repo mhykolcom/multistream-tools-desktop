@@ -1,0 +1,43 @@
+Multistream Tools desktop app - License
+
+Copyright (c) 2026 Mhy.io. All rights reserved.
+
+This license applies to the Multistream Tools desktop app ("the app") in the version it came with. By installing or
+using the app you agree to it. If you don't agree, don't install or use the app.
+
+1. Using the app
+   You may download, install and use the app for free, on any number of your own computers, to use with Multistream
+   Tools (https://multi.mhy.io).
+
+2. What you may not do
+   You may not:
+   a. copy the app to share it, or distribute, sell, rent, lend, sublicense or host it for others (point people to
+      the official downloads instead);
+   b. modify, adapt, translate or make works based on the app;
+   c. decompile, disassemble or reverse engineer the app, except where the law allows this despite this limit;
+   d. remove or change any copyright, license or other notices in the app.
+
+3. Other software in the app
+   The app includes open-source software (such as Electron, Chromium and Node.js) under its own licenses, listed in
+   THIRD-PARTY-NOTICES.txt and the other license files that come with the app. Those licenses apply to those parts,
+   and nothing in this license limits your rights under them.
+
+4. Updates and changes to this license
+   The app may check for, download and install updates. Later versions may come with different license terms; the
+   terms that come with a version apply to that version.
+
+5. The service and your data
+   The app works with the Multistream Tools website, whose Terms (https://multi.mhy.io/terms) apply to the service.
+   What the app sends and keeps is described in the Privacy Policy (https://multi.mhy.io/privacy).
+
+6. No warranty
+   THE APP IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+   WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+7. Limitation of liability
+   TO THE EXTENT THE LAW ALLOWS, IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+   OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+   APP OR THE USE OF OR OTHER DEALINGS IN THE APP.
+
+8. Ending
+   This license ends automatically if you break it. When it ends, stop using the app and uninstall it.
