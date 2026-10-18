@@ -21,7 +21,7 @@ Get the newest version under [Releases](../../releases/latest):
 | Windows 10/11 | `Multistream-Tools-Setup-<version>.exe` (or the Microsoft Store version, once it's listed) |
 | macOS (Apple silicon) | `Multistream-Tools-<version>-arm64.dmg` |
 | macOS (Intel) | `Multistream-Tools-<version>-x64.dmg` |
-| Linux | `Multistream-Tools-<version>-x86_64.AppImage` or `…-amd64.deb` |
+| Linux | `Multistream-Tools-<version>-x64.AppImage`, or `…-x64.deb` for Debian and Ubuntu |
 
 The Windows installer and the Mac app aren't signed yet:
 
